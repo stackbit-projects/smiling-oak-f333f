@@ -1,4 +1,4 @@
-# academic
+# Hola
 
 ### A Jekyll theme for academia
 
