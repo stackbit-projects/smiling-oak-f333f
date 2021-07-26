@@ -1,5 +1,5 @@
 menu:
-  - name: Hola
+  - name: Publication
     url: /people
   - name: publications
     url: /publications
